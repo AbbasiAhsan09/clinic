@@ -1,0 +1,14 @@
+.auth-form-layout{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.auth-form{
+    width:70%;
+    border-radius: 10px;
+    /* height: 550px; */
+    padding: 20px;
+    background: white;
+}
